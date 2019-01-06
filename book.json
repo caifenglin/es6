@@ -1,5 +1,5 @@
 {
-  "author": "阮一峰",
+  "author": "caifenglin",
   "description": "《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。",
   "extension": null,
   "generator": "site",
@@ -13,7 +13,7 @@
 	  "weibo": null
 	},
 	"sidebar": {
-	  "阮一峰的个人网站": "http://www.ruanyifeng.com/blog/"
+	  "caifenglin的个人网站": "http://www.smartdot.club/"
 	}
   },
   "output": null,
